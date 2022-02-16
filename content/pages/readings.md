@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e3079220-7632-42e9-34a8-ee8b6ab01f4d
 ---
@@ -387,7 +390,7 @@ Tutte's Theorem
   
 Every Cubic Graph Contains either no HC, or At Least Three  
   
-Examples of Hamiltonian Cycles in Cayley Graphs of Sn
+Examples of Hamiltonian Cycles in Cayley Graphs of S{{< sub "n" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -489,7 +492,7 @@ Bollobás, B. _Modern Graph Theory (Graduate Texts in Mathematics)._ New York, N
 {{< tdopen >}}
 Pattern Avoidance  
   
-The case of S3 and Catalan Numbers  
+The case of S{{< sub "3" >}} and Catalan Numbers  
   
 Stanley-Wilf Conjecture
 {{< tdclose >}}
@@ -619,7 +622,7 @@ Pak, I. "Hook Length Formula and Geometric Combinatorics." _Séminaire Lotharing
 {{< tdopen >}}
 Duality  
   
-Number of Involutions in Sn
+Number of Involutions in S{{< sub "n" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Pak, I. "Hook Length Formula and Geometric Combinatorics." _Séminaire Lotharingien de Combinatoire_ 46 (2001): article B46f.
