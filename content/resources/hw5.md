@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes questions based on random permutations.
-file: /media/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/3769e28c5d9a8814385979f0e8bee11d_hw5.pdf
+file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/3769e28c5d9a8814385979f0e8bee11d_hw5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: hw5.pdf
 uid: 3769e28c-5d9a-8814-3859-79f0e8bee11d
 ---
+This resource includes questions based on random permutations.
+
