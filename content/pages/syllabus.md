@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section includes course outlines, prerequisites, main textbooks,
+  problem sets, and grading criteria for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7a282fe0-2a01-4793-6dda-af0a46638785
 ---

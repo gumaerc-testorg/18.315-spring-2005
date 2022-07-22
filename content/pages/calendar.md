@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The calendar section includes lecture schedule along with the key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 646eb432-3e96-2974-947c-c8e3575eca4b
 ---
@@ -339,7 +342,7 @@ Tutte's Theorem
   
 Every Cubic Graph Contains Either no HC, or At Least Three  
   
-Examples of Hamiltonian Cycles in Cayley Graphs of Sn
+Examples of Hamiltonian Cycles in Cayley Graphs of S{{< sub "n" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -441,7 +444,7 @@ Asymptotic Analogues
 {{< tdopen >}}
 Pattern Avoidance  
   
-The case of S3 and Catalan Numbers  
+The case of S{{< sub "3" >}} and Catalan Numbers  
   
 Stanley-Wilf Conjecture
 {{< tdclose >}}
@@ -571,7 +574,7 @@ Problem set 8 due
 {{< tdopen >}}
 Duality  
   
-Number of Involutions in Sn
+Number of Involutions in S{{< sub "n" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
