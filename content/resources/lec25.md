@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec25.pdf
 uid: c9000c31-bcb8-f6f6-7997-8a174d88cc0e
 ---
 This resource includes information on two proofs of Mantel theorem, and Graham-Kleitman theorem.
-

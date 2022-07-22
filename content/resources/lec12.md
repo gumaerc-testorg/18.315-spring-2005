@@ -8,6 +8,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 34ef81e8-025b-e67b-2298-57d6a67d0002
 ---
 This resourse includes inforamtion on Gessel's formula for Tutte polynomial of a complete
 graph.
-

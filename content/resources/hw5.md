@@ -5,6 +5,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw5.pdf
 uid: 3769e28c-5d9a-8814-3859-79f0e8bee11d
 ---
 This resource includes questions based on random permutations.
-

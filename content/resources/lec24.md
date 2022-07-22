@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec24.pdf
 uid: a8d759c6-4720-c01c-fdf3-01fa6606f9b7
 ---
 This resource includes information on Hall's Marriage theorem, and Erd?s-Szekeres theorem.
-

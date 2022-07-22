@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec04.pdf
 uid: 1a85b3ce-f5c5-3f1d-bab7-dd5d18b54035
 ---
 This resourse includes inforamtion on combinatorics seminar,and Erd?s-Lov?sz theorem.
-

@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw2.pdf
 uid: 67584e64-3d85-4d48-0014-f00f7d91b44c
 ---
 This resource includes questions based on Helly's theorem, claw covering of graph G, and d-dimensional cube.
-

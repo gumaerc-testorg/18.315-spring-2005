@@ -5,6 +5,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw6.pdf
 uid: 2a3032b9-a1a7-8380-59f6-7123cc649021
 ---
 This resource includes questions based on Hamiltonian cycle.
-

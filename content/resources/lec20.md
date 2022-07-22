@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec20.pdf
 uid: 72ffd1de-3cf4-8a02-a325-905c66a7f0df
 ---
 This resource includes information on Lov?sz and Babai conjectures for vertex-transitive graphs, and Dirac's theorem.
-

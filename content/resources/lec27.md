@@ -5,6 +5,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec27.pdf
 uid: 71669e2d-62d3-d464-7562-58d035f92c11
 ---
 This resource includes information on asymptotic analogues.
-

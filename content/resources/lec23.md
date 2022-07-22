@@ -5,6 +5,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec23.pdf
 uid: ad096368-edfe-dbe7-d65d-078b839844ad
 ---
 This resource includes information on Gallai-Milgram theorem.
-

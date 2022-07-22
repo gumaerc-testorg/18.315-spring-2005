@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw8.pdf
 uid: fa7c4215-0fff-d0d6-9a3e-46ddf555d60e
 ---
 This resource includes questions based on hook-length formula, Young diagram, and probabilities.
-

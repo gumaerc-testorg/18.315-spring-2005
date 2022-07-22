@@ -5,6 +5,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec06.pdf
 uid: 1ed0c27d-fb9b-c335-f77c-6e143bfb2561
 ---
 This resourse includes inforamtion on vizing theorm.
-

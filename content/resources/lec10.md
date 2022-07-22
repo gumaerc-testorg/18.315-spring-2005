@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec10.pdf
 uid: f06e6888-5638-d63d-864b-c7e7c27392d5
 ---
 This resourse includes inforamtion on Stanley's theorem, and Two definitions of the Tutte polynomial.
-

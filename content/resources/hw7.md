@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw7.pdf
 uid: 9c8730ce-1c29-5735-46fe-74c94b4797a5
 ---
 This resource includes questions based on simple graphs, billiard trajectory, and permutations.
-

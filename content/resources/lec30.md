@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec30.pdf
 uid: 19347a50-fd8d-fcdb-3cca-21ddc2e74f8c
 ---
 This resource includes information on proof by Marcus and Tardos of the Stanley-Wilf conjecture.
-

@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec01.pdf
 uid: ad15e277-8001-f9bc-07b8-cd05a19c6c72
 ---
 This resourse includes inforamtion on prerequisites, borsuk conjecture, dehn's Qm, ramsye's Qm.
-

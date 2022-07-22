@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw1.pdf
 uid: 42bfcdfd-46fd-212a-f596-f9ce38d1e80f
 ---
 This resource includes questions based on proper colorings, and acute decomposition of a polygon.
-

@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec15.pdf
 uid: 355d21e5-2c35-2974-7a20-a30784e13ac0
 ---
 This resourse includes inforamtion on Oddtown theorem, Fisher's inequality, and 2-Distance sets.
-

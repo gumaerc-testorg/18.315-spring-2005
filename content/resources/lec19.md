@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec19.pdf
 uid: 17d0728d-880d-b15d-9269-5ddb67aeb44a
 ---
 This resource includes information on Tutte's counter example, and length of the longest path in a planar graph.
-

@@ -6,6 +6,7 @@ file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw3.pdf
 uid: ccd52e42-d854-ea5a-152f-eb1b36e94952
 ---
 This resource includes questions based on alternating permutations, Tutte polynomial, and combinatorial interpretation.
-
