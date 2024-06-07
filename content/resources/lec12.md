@@ -5,6 +5,7 @@ description: 'This resourse includes inforamtion on Gessel''s formula for Tutte 
 
   graph.'
 file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/34ef81e8025be67b229857d6a67d0002_lec12.pdf
+file_size: 78354
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
