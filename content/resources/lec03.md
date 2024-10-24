@@ -2,7 +2,7 @@
 content_type: resource
 description: This resourse includes inforamtion on monochromaric earth progression,
   and Erd?s-Szekeres theorem.
-file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/c878064d959cc8222effdf2910b1cb91_lec03.pdf
+file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/c878064d959cc8222effdf2910b1cb91_lec03.pdf
 file_size: 81609
 file_type: application/pdf
 learning_resource_types:
