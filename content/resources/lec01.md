@@ -2,7 +2,7 @@
 content_type: resource
 description: This resourse includes inforamtion on prerequisites, borsuk conjecture,
   dehn's Qm, ramsye's Qm.
-file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/ad15e2778001f9bc07b8cd05a19c6c72_lec01.pdf
+file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/ad15e2778001f9bc07b8cd05a19c6c72_lec01.pdf
 file_size: 65316
 file_type: application/pdf
 learning_resource_types:
