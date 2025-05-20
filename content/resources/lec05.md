@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resourse includes inforamtion on steps of induction.
-file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/eaa8a5277645072434481af363b9f615_lec05.pdf
+file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/eaa8a5277645072434481af363b9f615_lec05.pdf
 file_size: 76717
 file_type: application/pdf
 learning_resource_types:

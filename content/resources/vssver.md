@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/ae45ac331ee5e495ad00b3d3610a0b82_vssver.scc
+file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/ae45ac331ee5e495ad00b3d3610a0b82_vssver.scc
 file_size: 64
 file_type: application/octet-stream
 learning_resource_types:

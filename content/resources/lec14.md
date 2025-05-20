@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/5216a2d7c04ecfb6c36fe4a62a68c372_lec14.pdf
+file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/5216a2d7c04ecfb6c36fe4a62a68c372_lec14.pdf
 file_size: 79105
 file_type: application/pdf
 learning_resource_types:

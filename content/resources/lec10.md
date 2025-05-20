@@ -2,7 +2,7 @@
 content_type: resource
 description: This resourse includes inforamtion on Stanley's theorem, and Two definitions
   of the Tutte polynomial.
-file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/f06e68885638d63d864bc7e7c27392d5_lec10.pdf
+file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/f06e68885638d63d864bc7e7c27392d5_lec10.pdf
 file_size: 72658
 file_type: application/pdf
 learning_resource_types:
