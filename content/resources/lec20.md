@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on Lov?sz and Babai conjectures for
   vertex-transitive graphs, and Dirac's theorem.
-file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/72ffd1de3cf48a02a325905c66a7f0df_lec20.pdf
+file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/72ffd1de3cf48a02a325905c66a7f0df_lec20.pdf
 file_size: 61724
 file_type: application/pdf
 learning_resource_types:

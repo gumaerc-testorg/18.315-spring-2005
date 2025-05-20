@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on every cubic graph contains either
   no HC, or atleast three examples of Hamiltonian cycles in Cayley graphs of Sn.
-file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/7ccbb129abbd0e4dacbe372e78c00925_lec21.pdf
+file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/7ccbb129abbd0e4dacbe372e78c00925_lec21.pdf
 file_size: 76744
 file_type: application/pdf
 learning_resource_types:
