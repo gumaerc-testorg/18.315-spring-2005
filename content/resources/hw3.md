@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes questions based on alternating permutations, Tutte
   polynomial, and combinatorial interpretation.
-file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/ccd52e42d854ea5a152feb1b36e94952_hw3.pdf
+file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/ccd52e42d854ea5a152feb1b36e94952_hw3.pdf
 file_size: 58103
 file_type: application/pdf
 learning_resource_types:

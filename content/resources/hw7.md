@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes questions based on simple graphs, billiard trajectory,
   and permutations.
-file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/9c8730ce1c29573546fe74c94b4797a5_hw7.pdf
+file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/9c8730ce1c29573546fe74c94b4797a5_hw7.pdf
 file_size: 43441
 file_type: application/pdf
 learning_resource_types:
