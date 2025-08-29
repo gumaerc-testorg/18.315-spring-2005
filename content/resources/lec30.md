@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on proof by Marcus and Tardos of the
   Stanley-Wilf conjecture.
-file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/19347a50fd8dfcdb3cca21ddc2e74f8c_lec30.pdf
+file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/19347a50fd8dfcdb3cca21ddc2e74f8c_lec30.pdf
 file_size: 77489
 file_type: application/pdf
 learning_resource_types:
