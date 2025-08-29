@@ -2,7 +2,7 @@
 content_type: resource
 description: This resourse includes inforamtion on external and internal activities,
   and Tutte's theorem.
-file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/4f0e5c1ef0a2496fa27a50152f0ec523_lec11.pdf
+file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/4f0e5c1ef0a2496fa27a50152f0ec523_lec11.pdf
 file_size: 66741
 file_type: application/pdf
 learning_resource_types:

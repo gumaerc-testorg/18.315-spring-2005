@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resourse includes inforamtion on k colouring.
-file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/56c071ab44133e2f5795b053b0880a4e_lec08.pdf
+file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/56c071ab44133e2f5795b053b0880a4e_lec08.pdf
 file_size: 151195
 file_type: application/pdf
 learning_resource_types:

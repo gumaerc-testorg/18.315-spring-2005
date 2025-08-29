@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes questions based on hook-length formula, Young
   diagram, and probabilities.
-file: /courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/fa7c42150fffd0d69a3e46ddf555d60e_hw8.pdf
+file: /ol-ocw-studio-app/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/fa7c42150fffd0d69a3e46ddf555d60e_hw8.pdf
 file_size: 41219
 file_type: application/pdf
 learning_resource_types:
